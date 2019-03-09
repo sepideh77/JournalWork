@@ -54,19 +54,6 @@ Solutions are tested againt Gecode open-source constraint solver.
 
 **Performance obtained is over 80%.**
 
-# Author
 
-Ruben Solozabal, PhD student at the University of the Basque Country [UPV/EHU] Bilbao
-
-Date: October 2018
-
-Contact me: rubensolozabal@gmail.com
-
-# References
-
-Bello, I., Pham, H., Le, Q. V., Norouzi, M., & Bengio, S. (2016). Neural combinatorial optimization with reinforcement learning. arXiv preprint arXiv:1611.09940.
-
-Azalia Mirhoseini, Hieu Pham, Quoc Le, Mohammad Norouzi, Samy Bengio, Benoit Steiner,
-Yuefeng Zhou, Naveen Kumar, Rasmus Larsen, and Jeff Dean, Device placement optimization
 with reinforcement learning, 2017.
 
